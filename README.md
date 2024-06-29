@@ -14,8 +14,6 @@ JusticiaDB is a Java-based application developed by https://github.com/adityaraj
 
 - **Search Functionality**: Users can search for specific criminals or police personnel using various filters like name, ID, or other attributes, making it easy to find relevant information quickly.
 
-- **Data Visualization**: The application provides graphical representations or charts of data, such as crime statistics or distribution of police personnel by rank.
-
 - **Security**: The system implements security measures to protect sensitive information, ensuring the privacy and integrity of the data.
 
 - **User-Friendly Interface**: The user interface is designed for ease of use, making it accessible for both law enforcement professionals and administrators.
