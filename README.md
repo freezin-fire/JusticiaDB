@@ -1,8 +1,8 @@
-# Police Database System
+# JusticiaDB
 
 ## Overview
 
-The Police Database System is a Java-based application developed by https://github.com/adityarajshekhawat (Aditya Raj Shekhawat) and http://gitHub.com/freezin-fire (Garvit Sharma). This project is designed to manage and store information about criminals and police personnel in a MySQL database. It allows users to access, store, and retrieve data related to criminals and police officers efficiently.
+JusticiaDB is a Java-based application developed by https://github.com/adityarajshekhawat (Aditya Raj Shekhawat) and http://gitHub.com/freezin-fire (Garvit Sharma). This project is designed to manage and store information about criminals and police personnel in a MySQL database. It allows users to access, store, and retrieve data related to criminals and police officers efficiently.
 
 ## Features
 
@@ -32,7 +32,7 @@ Before running the Police Database System, ensure you have the following softwar
 
 ## Installation
 
-Follow these steps to set up and run the Police Database System:
+Follow these steps to set up and run JusticiaDB:
 
 1. Clone or download the project from the GitHub repository (if available).
 
@@ -64,7 +64,7 @@ Follow these steps to set up and run the Police Database System:
 
 ## Contributing
 
-If you'd like to contribute to the Police Database System project, please follow these steps:
+If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository on GitHub.
 
